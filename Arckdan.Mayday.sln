@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arckdan.Mayday.WebApi", "Arckdan.Mayday.WebApi\Arckdan.Mayday.WebApi.csproj", "{4B4DF7AC-FB6E-4908-8D66-74D2AAE55AF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arckdan.Mayday.Domain", "Arckdan.Mayday.Domain\Arckdan.Mayday.Domain.csproj", "{25E7738E-9C65-4E0E-B452-783CBEF1FBAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arckdan.Mayday.Repository", "Arckdan.Mayday.Repository\Arckdan.Mayday.Repository.csproj", "{00C88FB9-3D59-4127-BB59-4C567EBC6FAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arckdan.Mayday.Services", "Arckdan.Mayday.Services\Arckdan.Mayday.Services.csproj", "{2EAD45B7-01C7-4019-B76A-689AC6DB4C4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arckdan.Mayday.UnitOfWork", "Arckdan.Mayday.UnitOfWork\Arckdan.Mayday.UnitOfWork.csproj", "{D463D696-9AF8-43BE-AB14-C2F14F0AE35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4DF7AC-FB6E-4908-8D66-74D2AAE55AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4DF7AC-FB6E-4908-8D66-74D2AAE55AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4DF7AC-FB6E-4908-8D66-74D2AAE55AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4DF7AC-FB6E-4908-8D66-74D2AAE55AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E7738E-9C65-4E0E-B452-783CBEF1FBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E7738E-9C65-4E0E-B452-783CBEF1FBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E7738E-9C65-4E0E-B452-783CBEF1FBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E7738E-9C65-4E0E-B452-783CBEF1FBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C88FB9-3D59-4127-BB59-4C567EBC6FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C88FB9-3D59-4127-BB59-4C567EBC6FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C88FB9-3D59-4127-BB59-4C567EBC6FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C88FB9-3D59-4127-BB59-4C567EBC6FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAD45B7-01C7-4019-B76A-689AC6DB4C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAD45B7-01C7-4019-B76A-689AC6DB4C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAD45B7-01C7-4019-B76A-689AC6DB4C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAD45B7-01C7-4019-B76A-689AC6DB4C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D463D696-9AF8-43BE-AB14-C2F14F0AE35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D463D696-9AF8-43BE-AB14-C2F14F0AE35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D463D696-9AF8-43BE-AB14-C2F14F0AE35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D463D696-9AF8-43BE-AB14-C2F14F0AE35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0BB005-4BE5-4593-8219-5568EDA58ECD}
+	EndGlobalSection
+EndGlobal
